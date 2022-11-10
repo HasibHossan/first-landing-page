@@ -1,0 +1,78 @@
+color 1 - FF6162
+color 2- 292640
+
+nav option 
+Demos 
+Features
+Documentation
+
+button
+Purchase Theme $100
+
+text
+Minimal Content Focused Blog & Magazine
+Gorgo is a minimal content focused Blog and Magazine Theme. Use it to write posts, create a magazine, share your ideas and desires.
+
+demo part text
+h- our stunning demo 
+start with a unique demo to create an awesome personal blog, magazine or 
+focused content site- italic imz
+cetagory
+classic
+shop
+dark mode
+minimal 
+
+
+Features section
+a quick tour of main featchers 
+3x3
+a
+
+Fully Customizable
+
+Create an unlimited number of pages
+using widgets, menus and the WordPress
+Customizer. Without the hassle of bloated
+features and hundreds of admin settings.
+
+B
+
+Sell Digital & Physical Products
+
+Launch a shop to enhance the craze of
+your community and spread the word!
+
+4
+
+Simple Demo Import
+
+Robust and very simple demo importer
+
+posts, sample sliders, widgets, theme
+
+options and more are imported in one
+minute.
+
+g
+
+Like Posts
+
+Your readers will be able to like your
+publications. Create a real community!
+
+&
+
+Paid & Free Memberships
+
+Manage subscriptions with Paid
+Memberships Pro and monetize your site
+with exclusive content.
+
+@
+
+Responsive is not an option
+anymore
+
+Enjoy browsing your site on mobile
+phones, tablets and desktop
